@@ -58,9 +58,7 @@ Python • Bash • Linux • Git • Shell Scripting
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HEGDEDARSHAN&icon=0&color=0)](https://visitcount.itsvg.in)
-🌏 Let's Connect
-📧 Email: darshanhegded10@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/darshan-hegde04/
 📍 Location: Bengaluru, India
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
