@@ -63,10 +63,7 @@ Python • Bash • Linux • Git • Shell Scripting
 [![](https://visitcount.itsvg.in/api?id=HEGDEDARSHAN&icon=0&color=0)](https://visitcount.itsvg.in)
 📍 Location: Bengaluru, India
 <div align="center">
-  <a href="assets/video_with_intro.mp4">
-    <img src="assets/video_with_intro.gif" alt="Motivation Video" width="80%">
-  </a>
-  <p><em>Still learning. Still hungry.</em></p>
+  <em>Still learning. Still hungry.</em>
 </div>
 
 
